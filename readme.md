@@ -158,6 +158,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bitbar](https://github.com/matryer/bitbar)
 - [Brew](https://brew.sh)
 - [Chronosync](https://www.econtechnologies.com/chronosync/overview.html)
+- [Capty](https://capty.app/) - Lightning-fast screen recordings with a native macOS experience.
 - [CleanShot X](https://cleanshot.com/) - Ultimate screen recording app.
 - [Clean my mac 3](https://macpaw.com/cleanmymac)
 - [Daisy disk](https://daisydiskapp.com/)
