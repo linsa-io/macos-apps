@@ -73,6 +73,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Dev tools
 
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
+- [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
 - [Dash](https://kapeli.com/dash)
 - [Dumper](https://bananafishsoftware.com/products/dumper/) - Extract, browse and inspect the class declarations from any Mach-O file containing Objective-C runtime information.
 - [Paw](https://paw.cloud/)
