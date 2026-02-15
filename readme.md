@@ -135,6 +135,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Read
 
+- [BookShelves](https://getbookshelves.app/) - Ebook reader and library manager with 100,000+ free public domain books and iCloud sync.
 - [iBooks](https://www.apple.com/lae/ibooks/)
 - [PDF Expert](https://pdfexpert.com/)
 - [Reeder 3](http://reederapp.com/mac/)
