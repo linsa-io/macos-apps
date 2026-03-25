@@ -76,6 +76,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
 - [Dash](https://kapeli.com/dash)
 - [Dumper](https://bananafishsoftware.com/products/dumper/) - Extract, browse and inspect the class declarations from any Mach-O file containing Objective-C runtime information.
+- [Mocker](https://github.com/us/mocker) - Docker-compatible container management tool built natively on Apple's Containerization framework for macOS.
 - [OpenPaw](https://github.com/daxaur/openpaw) - Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills. `npx pawmode`
 - [Paw](https://paw.cloud/)
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Create Mac applications from command line scripts.
