@@ -80,6 +80,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Paw](https://paw.cloud/)
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Create Mac applications from command line scripts.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/)
+- [gitty](https://github.com/Omibranch/gitty) - Single-binary CLI for Git and GitHub with short, human-readable commands. `brew install gitty`
 - [Sublime Merge](https://www.sublimemerge.com/) - Git client from makers of Sublime Text.
 - [Tower](https://www.git-tower.com/mac/)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
