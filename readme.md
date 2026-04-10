@@ -112,6 +112,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Music
 
+- [Kaset](https://github.com/sozercan/kaset) - Native YouTube Music client for macOS.
 - [Noizio](http://noiz.io/)
 - [Spotify](https://www.spotify.com/)
 - [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
