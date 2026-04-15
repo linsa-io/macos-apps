@@ -128,6 +128,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
+- [SnapHotkey](https://snaphotkey.com/) - Assign keyboard shortcuts directly to specific apps — press Left Cmd+1 to always open VS Code, Left Cmd+2 for Terminal. No Cmd+Tab cycling. Supports left/right modifier distinction and multi-window cycling.
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tag and archive documents.
 - [Timing 2](https://betalist.com/startups/timing-2)
 - [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
@@ -236,3 +237,4 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
 [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+
