@@ -39,6 +39,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Airmail](http://airmailapp.com/)
 - [Gitter](https://gitter.im/apps)
+- [HeyRobyn](https://heyrobyn.ai) - Native macOS unified inbox combining email, Slack, and GitHub in one window.
 - [Slack](https://slack.com/)
 - [Telegram](https://telegram.org/)
 - [Textual](https://www.codeux.com/textual/)
