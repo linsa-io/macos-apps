@@ -29,6 +29,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
+- [Murmur](https://murmurtts.com/) - On-device text-to-speech studio with 860+ voices, voice cloning, and offline generation on Apple Silicon.
 
 ## Code
 
