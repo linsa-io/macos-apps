@@ -199,6 +199,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Write
 
+- [AI Dictation](https://aidictation.com/) - Speech-to-text dictation that auto-switches between offline and online engines, with AI cleanup that removes filler words, fixes grammar, and formats text per app.
 - [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 - [Day One](http://dayoneapp.com/)
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
