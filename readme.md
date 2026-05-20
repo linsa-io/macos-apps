@@ -74,6 +74,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Dev tools
 
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
+- [Clipport](https://github.com/arihantsethia/clipport) - Paste local clipboard text and images into remote iTerm sessions.
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
 - [Dash](https://kapeli.com/dash)
 - [Dumper](https://bananafishsoftware.com/products/dumper/) - Extract, browse and inspect the class declarations from any Mach-O file containing Objective-C runtime information.
