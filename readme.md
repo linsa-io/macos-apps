@@ -73,6 +73,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Dev tools
 
+- [Agent Island](https://github.com/tristan666666/agent-island) - MacBook notch companion for Claude and Codex sessions with live status and auto-resume.
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
 - [Dash](https://kapeli.com/dash)
