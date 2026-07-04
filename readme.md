@@ -202,6 +202,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 - [Day One](http://dayoneapp.com/)
+- [Everseq](https://github.com/alkalim/Everseq) - macOS outliner for local-first Markdown notes with block trees, backlinks, embeds, and queries.
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
