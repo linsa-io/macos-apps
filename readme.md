@@ -93,6 +93,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Health
 
 - [Paprika recipe manager](https://www.paprikaapp.com/)
+- [Peeku Presence Coach](https://apps.apple.com/app/peeku-presence-coach/id6773651327?mt=12) - Private menu-bar coach for eye breaks, walk reminders, and local presence signals.
 
 ## IDE
 
