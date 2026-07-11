@@ -83,6 +83,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - [Sublime Merge](https://www.sublimemerge.com/) - Git client from makers of Sublime Text.
 - [Tower](https://www.git-tower.com/mac/)
+- [usage](https://github.com/aqua5230/usage) - Claude Code and Codex quota in the menu bar, with burn-rate predictions and offline HTML reports.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
 ## Games
