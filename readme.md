@@ -104,6 +104,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Flume](https://flumeapp.com/)
 - [GIF Brewery](http://gifbrewery.com/) - Create/edit GIFs.
+- [iMonet](https://github.com/wflixu/Monet) - Image viewer optimized for mouse users.
 - [Pixave](http://www.littlehj.com/) - Image organizer.
 - [Wallcat](https://beta.wall.cat/) - New wallpaper everyday.
 
