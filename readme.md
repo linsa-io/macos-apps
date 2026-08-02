@@ -206,6 +206,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
+- [Markup](https://github.com/oratis/Markup) - Reader-first native Markdown editor; reads .md like a web page, edit on demand.
 - [Texpad](https://www.texpad.com/)
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
 
