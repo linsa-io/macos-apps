@@ -201,6 +201,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Write
 
+- [AI Dictation](https://aidictation.com/) - Voice-to-text app with MIT-licensed native client source, offline recognition on supported Macs, and optional cloud transcription and cleanup.
 - [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 - [Day One](http://dayoneapp.com/)
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
