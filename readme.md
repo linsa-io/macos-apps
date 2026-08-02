@@ -187,6 +187,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Popclip](https://pilotmoon.com/popclip/)
 - [Spotifree](http://spotifree.gordinskiy.com/)
 - [Swish](https://highlyopinionated.co/swish/) - A gesture layer and window manager for the trackpad power user.
+- [TickerNotch](https://bitvibelabs.com/tickernotch/) - Live stock and crypto tickers, news and price alerts around the MacBook notch.
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
 - [Unclutter](https://unclutterapp.com/)
 - [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover.
