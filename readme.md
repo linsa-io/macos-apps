@@ -104,6 +104,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Flume](https://flumeapp.com/)
 - [GIF Brewery](http://gifbrewery.com/) - Create/edit GIFs.
+- [Picmal](https://picmal.app) - Convert, compress, and edit images without leaving your Mac.
 - [Pixave](http://www.littlehj.com/) - Image organizer.
 - [Wallcat](https://beta.wall.cat/) - New wallpaper everyday.
 
@@ -202,6 +203,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Write
 
 - [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
+- [Cozy](https://cozyjournal.app) - Private journal that keeps your entries on your Mac.
 - [Day One](http://dayoneapp.com/)
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
 - [MacDown](https://macdown.uranusjr.com/)
