@@ -83,6 +83,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Create Mac applications from command line scripts.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - [Sublime Merge](https://www.sublimemerge.com/) - Git client from makers of Sublime Text.
+- [Tintpad](https://github.com/sorkila/tintpad) - Menu bar launcher that opens your terminal at the right repo with a coding agent (Claude Code, Codex) already running.
 - [Tower](https://www.git-tower.com/mac/)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
