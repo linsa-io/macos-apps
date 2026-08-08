@@ -148,6 +148,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [iTerm](https://github.com/gnachman/iTerm2)
 - [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature full, GPU based terminal emulator.
+- [Nexus Shell](https://nexusshell.app/) - Native SSH client with SFTP, server monitoring, Docker tools, and session logs.
 
 ## Text Editors
 
