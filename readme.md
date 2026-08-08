@@ -73,7 +73,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Dev tools
 
-- [Agent Island](https://github.com/tristan666666/agent-island) - Monitor Claude Code and Codex session state and get your-turn alerts from the menu bar.
+- [Agent Island](https://github.com/tristan666666/agent-island) - Native companion for Claude, Codex, Gemini, Grok, and Cursor with local session status, alerts, and provider usage views.
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
 - [Dash](https://kapeli.com/dash)
