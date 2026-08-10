@@ -73,7 +73,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Dev tools
 
-- [Agent Island](https://github.com/tristan666666/agent-island) - Native companion for Claude, Codex, Gemini, Grok, and Cursor with local session status, alerts, and provider usage views.
+- [Agent Island](https://github.com/tristan666666/agent-island) - Native companion for Claude, Codex, Antigravity, Grok, and Cursor with local session status, alerts, and provider usage views.
 - [AgentGrid](https://agentgrid.sh) - Infinite zoomable canvas for orchestrating multiple AI coding agents in parallel, with role-based workers, per-agent git worktrees, and integrated terminals and browser panes.
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
