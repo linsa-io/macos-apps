@@ -206,6 +206,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
+- [Notula](https://notula.org) - WYSIWYG editor for the Markdown documentation in a git repository, with comment threads committed beside the documents.
 - [Texpad](https://www.texpad.com/)
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
 
