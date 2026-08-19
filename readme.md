@@ -93,6 +93,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Health
 
+- [Abendrot](https://abendrot.app) - Screen warmer that cuts nighttime blue light on every display.
 - [Paprika recipe manager](https://www.paprikaapp.com/)
 
 ## IDE
