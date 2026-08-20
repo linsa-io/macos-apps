@@ -153,6 +153,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Atom](https://atom.io)
 - [Code runner](https://coderunnerapp.com/)
+- [Downright](https://downright.cc/) - Native Markdown reader and editor with Quick Look previews and source-preserving formatted editing.
 - [Sublime Text](https://www.sublimetext.com/)
 - [VS Code](https://code.visualstudio.com/)
 
