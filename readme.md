@@ -110,7 +110,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Learn
 
 - [Anki](https://apps.ankiweb.net/)
-- [Leafy](https://leafyapp.uk) - Menu bar vocabulary builder that saves any word on screen with the sentence around it.
+- [LeafyApp](https://leafyapp.uk) - Menu bar vocabulary builder that saves any word on screen with the sentence around it.
 - [Soulver](http://acqualia.com/soulver/)
 
 ## Music
