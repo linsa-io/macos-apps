@@ -181,6 +181,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Keka](https://www.keka.io)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [Lumen](https://github.com/anishathalye/lumen)
+- [Mole](https://mole.fit/) - Cleans caches, manages apps, analyzes disk space, and monitors system status.
 - [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Center Calendar
 - [Name mangler](https://manytricks.com/namemangler/)
 - [Pacifist](http://www.charlessoft.com/) - Opens Mac OS X .pkg package files, .dmg disk images, and .zip, .tar, .tar.gz, .tar.bz2, and .xar archives and allows you to extract individual files and folders out of them.
