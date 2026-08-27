@@ -131,6 +131,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tag and archive documents.
+- [PX7 Markdown Find](https://markdown.px7.digital/find/) - Search Markdown titles and contents across chosen folders from a global shortcut, entirely on-device.
 - [Timing 2](https://betalist.com/startups/timing-2)
 - [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
 - [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
