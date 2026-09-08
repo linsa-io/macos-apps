@@ -136,6 +136,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
 - [Taskade](https://taskade.com/) - Simple and sharable task lists, notes and outlines.
 - [Up Next](http://ellen.li/up-next/) - See your day at a glance. Integrated with Google Meet so you can join meetings with ⌘J.
+- [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader) - Collects email invoices, classifies them with OCR, and exports Excel summaries for review.
 
 ## Read
 
