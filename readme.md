@@ -208,6 +208,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Marked 2](http://marked2app.com/)
 - [Texpad](https://www.texpad.com/)
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
+- [AI Novel Writer](https://github.com/EthanYoQ/AI-Novel-Writer) - Organizes characters, worldbuilding, outlines, chapters, review, and revision for long-form fiction.
 
 ## Preference Panes
 
