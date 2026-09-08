@@ -195,6 +195,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Video
 
 - [IINA](https://github.com/lhc70000/iina)
+- [LiveFaceSwap Desktop](https://livefaceswap.ai/desktop) - Real-time face swapping with virtual-camera output for streaming and video calls on Apple Silicon Macs.
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
