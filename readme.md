@@ -119,6 +119,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Spotify](https://www.spotify.com/)
 - [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Ultimate lyrics app for macOS.
+- [nowbar](https://github.com/arian-shamaei/nowbar) - Menu bar Now Playing item replaced with the live album art of the current track.
 
 ## Productivity
 
