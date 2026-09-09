@@ -124,6 +124,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [2Do](https://www.2doapp.com/) - Powerful & flexible GTD task manager.
 - [Air Pasteboard](https://apps.apple.com/us/app/air-pasteboard/id1327733671?mt=12) - Quick pasteboard and file sharing.
+- [Barstool](https://barstool.lotl.dev) - The better menubar made for macOS.
 - [BetterTouchTool](https://www.boastr.net/)
 - [Fantastical](https://flexibits.com/fantastical)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation engine.
