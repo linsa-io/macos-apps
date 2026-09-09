@@ -126,6 +126,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Air Pasteboard](https://apps.apple.com/us/app/air-pasteboard/id1327733671?mt=12) - Quick pasteboard and file sharing.
 - [BetterTouchTool](https://www.boastr.net/)
 - [Fantastical](https://flexibits.com/fantastical)
+- [Focuh](https://www.focuh.com) - ADHD to-do list, week planner, focus timer, and website/app blocker.
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation engine.
 - [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
