@@ -205,6 +205,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 - [Day One](http://dayoneapp.com/)
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
+- [Glyph](https://glyphformac.com/) - Offline-first notes for macOS, built around local Markdown files. [Source](https://github.com/SidhuK/Glyph)
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
 - [Texpad](https://www.texpad.com/)
