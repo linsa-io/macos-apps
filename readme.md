@@ -119,6 +119,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Spotify](https://www.spotify.com/)
 - [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Ultimate lyrics app for macOS.
+- [Lyrimuse](https://github.com/Yudaotor/lyrimuse) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music and browser web players, picked by scoring every candidate.
 
 ## Productivity
 
