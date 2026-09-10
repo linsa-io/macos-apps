@@ -130,6 +130,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
+- [Orkas](https://orkas.ai/?source=gh_linsa) - Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tag and archive documents.
 - [Timing 2](https://betalist.com/startups/timing-2)
 - [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
