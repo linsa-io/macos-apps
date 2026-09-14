@@ -206,6 +206,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Day One](http://dayoneapp.com/)
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
 - [MacDown](https://macdown.uranusjr.com/)
+- [MDDock](https://mddock.com/) - Local-first Markdown editor and knowledge base with optional AI chat over your notes.
 - [Marked 2](http://marked2app.com/)
 - [Texpad](https://www.texpad.com/)
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
