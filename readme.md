@@ -93,6 +93,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Health
 
+- [CareClinic](https://careclinic.io/careclinic-for-mac/) - Track symptoms, medications, mood, sleep, and daily health patterns.
 - [Paprika recipe manager](https://www.paprikaapp.com/)
 
 ## IDE
