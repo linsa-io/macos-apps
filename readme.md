@@ -84,6 +84,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - [Sublime Merge](https://www.sublimemerge.com/) - Git client from makers of Sublime Text.
 - [Tower](https://www.git-tower.com/mac/)
+- [Usage HUD](https://hud.thaliabloom.com) - Native menu-bar meter for Claude, Codex, Gemini, Grok, and Ollama usage windows, with a confidence label on every number.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
 ## Games
