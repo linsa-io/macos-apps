@@ -199,6 +199,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
+- [Trizr](https://trizr.denxvd.com) - Blur faces, license plates, and on-screen secrets in video, then trim and export locally.
 
 ## Write
 
