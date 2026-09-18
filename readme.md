@@ -192,6 +192,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Unclutter](https://unclutterapp.com/)
 - [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover.
 - [ZoomShot](https://apps.apple.com/app/zoomshot-live-screen-effect/id6758536367) - Real-time screen zoom, cursor highlight, drawing, and text memo for presentations and recordings.
+- [BoardEject](https://github.com/royalpinto007/boardeject) - Export Apple Freeform boards to editable Excalidraw files or save them as verified local archives.
 
 ## Video
 
