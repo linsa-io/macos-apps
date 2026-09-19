@@ -136,6 +136,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
 - [Taskade](https://taskade.com/) - Simple and sharable task lists, notes and outlines.
 - [Up Next](http://ellen.li/up-next/) - See your day at a glance. Integrated with Google Meet so you can join meetings with ⌘J.
+- [Whisk](https://github.com/nathan-poncet/whisk) - Open-source clipboard manager with a Paste-style panel, pins, search operators and rich previews.
 
 ## Read
 
