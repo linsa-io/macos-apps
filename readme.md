@@ -169,6 +169,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Clean my mac 3](https://macpaw.com/cleanmymac)
 - [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.
 - [Daisy disk](https://daisydiskapp.com/)
+- [DiskWise](https://github.com/DreamOfXM/diskwise) - Open-source disk cleaner that only ever moves files to the Trash, with per-session undo and a cache knowledge base explaining each entry.
 - [Dropzone 4](https://aptonic.com/)
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
 - [Gitify](https://github.com/manosim/gitify)
