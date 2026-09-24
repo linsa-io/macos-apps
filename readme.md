@@ -162,6 +162,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bartender](https://www.macbartender.com/) - Organize menu bar apps.
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
 - [Bitbar](https://github.com/matryer/bitbar)
+- [Boost](https://github.com/Kernel-Hunter/boost) - Frees memory and finds safe-to-delete disk space without closing apps.
 - [Brew](https://brew.sh)
 - [Chronosync](https://www.econtechnologies.com/chronosync/overview.html)
 - [Capty](https://capty.app/) - Lightning-fast screen recordings with a native macOS experience.
