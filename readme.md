@@ -186,6 +186,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Name mangler](https://manytricks.com/namemangler/)
 - [Pacifist](http://www.charlessoft.com/) - Opens Mac OS X .pkg package files, .dmg disk images, and .zip, .tar, .tar.gz, .tar.bz2, and .xar archives and allows you to extract individual files and folders out of them.
 - [Popclip](https://pilotmoon.com/popclip/)
+- [Scroll Wheel Mission Control](https://github.com/enso-works/Mac-Scroll-Wheel-Mission-Control) - Switch desktops by holding the scroll wheel and dragging, and open Mission Control with a wheel click. Free and open source.
 - [Spotifree](http://spotifree.gordinskiy.com/)
 - [Swish](https://highlyopinionated.co/swish/) - A gesture layer and window manager for the trackpad power user.
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
