@@ -140,6 +140,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Read
 
 - [iBooks](https://www.apple.com/lae/ibooks/)
+- [Libratory](https://libratory.dev) - Turn the PDFs you own into chapter-marked audiobooks and read along with the narration highlighted on the page.
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting.
 - [PDF Expert](https://pdfexpert.com/)
 - [Reeder 3](http://reederapp.com/mac/)
