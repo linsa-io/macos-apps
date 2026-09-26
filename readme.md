@@ -171,6 +171,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Daisy disk](https://daisydiskapp.com/)
 - [Dropzone 4](https://aptonic.com/)
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
+- [FunNotch](https://funnotch.xyz) - Puts the space around the MacBook camera to work with media controls, a drag-and-drop file shelf, clipboard history, focus sessions and twelve widgets. Free and open source.
 - [Gitify](https://github.com/manosim/gitify)
 - [Hammerspoon](http://www.hammerspoon.org/)
 - [Hummingbird](https://hummingbirdapp.site) - Easily move and resize windows without mouse clicks, from anywhere within a window.
