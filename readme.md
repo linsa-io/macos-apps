@@ -73,6 +73,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Dev tools
 
+- [Agent Cat](https://agentcat.app) - Free menu bar app that shows usage and rate limits for Claude Code, Codex, Gemini, Copilot, Cursor and other AI coding agents in one place, with several accounts per provider.
 - [AgentGrid](https://agentgrid.sh) - Infinite zoomable canvas for orchestrating multiple AI coding agents in parallel, with role-based workers, per-agent git worktrees, and integrated terminals and browser panes.
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
