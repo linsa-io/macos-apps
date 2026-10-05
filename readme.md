@@ -81,6 +81,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [OpenPaw](https://github.com/daxaur/openpaw) - Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills. `npx pawmode`
 - [Paw](https://paw.cloud/)
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Create Mac applications from command line scripts.
+- [SkillKeeper](https://skillkeeper.app/) - Menu bar app showing which skills, agents and MCP servers your AI coding sessions ran, and what they cost in tokens.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - [Sublime Merge](https://www.sublimemerge.com/) - Git client from makers of Sublime Text.
 - [Tower](https://www.git-tower.com/mac/)
