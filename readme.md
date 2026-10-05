@@ -176,6 +176,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hummingbird](https://hummingbirdapp.site) - Easily move and resize windows without mouse clicks, from anywhere within a window.
 - [HexFriend](https://github.com/ridiculousfish/HexFiend/) - Fast and clever open source hex editor.
 - [IStat menus](https://bjango.com/mac/istatmenus/)
+- [Just Copy](https://justcopy.app/) - Clipboard manager that lives in the notch.
 - [Kap](https://getkap.co/)
 - [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful keyboard customizer.
 - [Keka](https://www.keka.io)
