@@ -111,6 +111,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Anki](https://apps.ankiweb.net/)
 - [Soulver](http://acqualia.com/soulver/)
+- [StudyDaily](https://www.studydaily.app/en) - Flashcards with FSRS spaced repetition that import Anki decks with their review history.
 
 ## Music
 
