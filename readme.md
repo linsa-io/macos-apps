@@ -196,6 +196,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Video
 
 - [IINA](https://github.com/lhc70000/iina)
+- [Lucid](https://github.com/braedonsaunders/lucid) - Real-time AI video super-resolution for Apple silicon Macs (browser video in place).
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
