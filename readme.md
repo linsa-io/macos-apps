@@ -125,6 +125,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [2Do](https://www.2doapp.com/) - Powerful & flexible GTD task manager.
 - [Air Pasteboard](https://apps.apple.com/us/app/air-pasteboard/id1327733671?mt=12) - Quick pasteboard and file sharing.
 - [BetterTouchTool](https://www.boastr.net/)
+- [Drevon](https://www.drevon.dev) - Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins.
 - [Fantastical](https://flexibits.com/fantastical)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation engine.
 - [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
