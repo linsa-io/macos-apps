@@ -64,6 +64,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Framer X](https://framer.com/) - Interactive design tool.
 - [Iconizer](http://raphaelhanneken.github.io/iconizer/) - Create Xcode asset catalogs on the fly.
 - [Image2icon](http://www.img2icnsapp.com/) - Create and personalize icons from your pictures.
+- [Kamply](https://kamplyapp.com) - Marketing crew that builds social posts, video reels, ads and decks in your branding, on your own Claude Code or Codex plan.
 - [Patina](http://www.patinaapp.com/)
 - [Pixelmator](http://www.pixelmator.com/mac/)
 - [Sip](http://sipapp.io/)
