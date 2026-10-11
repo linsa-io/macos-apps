@@ -159,6 +159,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Utilities
 
 - [Alfred](https://www.alfredapp.com/) - Customizable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-).
+- [AskClean](https://www.askclean.app/) - Explains disk storage items, asks for confirmation, and moves approved files to the Trash.
 - [Bartender](https://www.macbartender.com/) - Organize menu bar apps.
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
 - [Bitbar](https://github.com/matryer/bitbar)
