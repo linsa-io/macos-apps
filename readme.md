@@ -140,6 +140,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Read
 
 - [iBooks](https://www.apple.com/lae/ibooks/)
+- [Lemma](https://github.com/fus3r/lemma) - PDF reader for mathematics textbooks and papers that turns theorem and equation references into links, folds proofs and checks the derivations you write.
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting.
 - [PDF Expert](https://pdfexpert.com/)
 - [Reeder 3](http://reederapp.com/mac/)
