@@ -190,6 +190,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Swish](https://highlyopinionated.co/swish/) - A gesture layer and window manager for the trackpad power user.
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
 - [Unclutter](https://unclutterapp.com/)
+- [Wardlume](https://wardlume.github.io) - Locks the keyboard, mouse, and trackpad while the screen stays visible, so builds and AI agents keep running untouched. Lives in the menu bar; unlocks with Touch ID or Apple Watch.
 - [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover.
 - [ZoomShot](https://apps.apple.com/app/zoomshot-live-screen-effect/id6758536367) - Real-time screen zoom, cursor highlight, drawing, and text memo for presentations and recordings.
 
