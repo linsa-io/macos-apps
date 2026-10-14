@@ -75,6 +75,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [AgentGrid](https://agentgrid.sh) - Infinite zoomable canvas for orchestrating multiple AI coding agents in parallel, with role-based workers, per-agent git worktrees, and integrated terminals and browser panes.
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
+- [BuildGist](https://buildgist.com) - Explains each meaningful Claude Code, Cursor and Codex run in plain English, and hands your words to the next agent when you switch and choose Continue.
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
 - [Dash](https://kapeli.com/dash)
 - [Dumper](https://bananafishsoftware.com/products/dumper/) - Extract, browse and inspect the class declarations from any Mach-O file containing Objective-C runtime information.
