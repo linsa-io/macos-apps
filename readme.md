@@ -171,6 +171,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Daisy disk](https://daisydiskapp.com/)
 - [Dropzone 4](https://aptonic.com/)
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
+- [Floodtide](https://bhopstudio.com/floodtide) - Finds outdated apps through Homebrew, Sparkle, GitHub and the App Store, then updates them together with a backup and rollback.
 - [Gitify](https://github.com/manosim/gitify)
 - [Hammerspoon](http://www.hammerspoon.org/)
 - [Hummingbird](https://hummingbirdapp.site) - Easily move and resize windows without mouse clicks, from anywhere within a window.
