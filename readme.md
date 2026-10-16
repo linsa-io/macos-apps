@@ -139,6 +139,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Read
 
+- [Glim](https://github.com/NeoPanic/Glim) - Read Markdown, PDFs, images, JSON, CSV and source code in one workspace.
 - [iBooks](https://www.apple.com/lae/ibooks/)
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting.
 - [PDF Expert](https://pdfexpert.com/)
