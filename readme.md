@@ -77,6 +77,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
 - [Dash](https://kapeli.com/dash)
+- [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Manage and mirror Android emulators, Android phones and iOS simulators side by side.
 - [Dumper](https://bananafishsoftware.com/products/dumper/) - Extract, browse and inspect the class declarations from any Mach-O file containing Objective-C runtime information.
 - [OpenPaw](https://github.com/daxaur/openpaw) - Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills. `npx pawmode`
 - [Paw](https://paw.cloud/)
