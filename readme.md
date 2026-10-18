@@ -199,6 +199,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
+- [WeMotion](https://wemotion.ai/) - Describe a motion graphics film and an AI designer builds it as editable layers you can change by clicking any frame. Needs an Anthropic API key, or Claude Pro or Max.
 
 ## Write
 
