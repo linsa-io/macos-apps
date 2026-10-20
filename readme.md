@@ -116,6 +116,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Kaset](https://github.com/sozercan/kaset) - Native YouTube Music client for macOS.
 - [Noizio](http://noiz.io/)
+- [Overdrive](https://github.com/skhaz/overdrive) - Open-source, very lightweight music player for your music folders, packed with features: synced lyrics, volume normalization, Last.fm scrobbles, and YouTube music videos.
 - [Spotify](https://www.spotify.com/)
 - [Tine Player](http://www.catnapgames.com/tiny-player-for-mac/)
 - [LyricsX](https://github.com/ddddxxx/LyricsX) - Ultimate lyrics app for macOS.
