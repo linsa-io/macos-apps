@@ -205,6 +205,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 - [Day One](http://dayoneapp.com/)
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
+- [Koru](https://www.koru.do) - Free, open-source, local-first workspace for notes, docs and files, built natively in Rust.
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
 - [Texpad](https://www.texpad.com/)
