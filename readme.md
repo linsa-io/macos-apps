@@ -30,6 +30,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app powered by WhisperKit.
+- [Speech to Text](https://github.com/ciro-maciel/speech-to-text) - Menu bar dictation: press a shortcut, speak, and the text is pasted at the cursor, transcribed on the Mac with whisper.cpp.
+- [Text to Speech](https://github.com/ciro-maciel/text-to-speech) - Reads the text selected in any app aloud with one shortcut, with a local Piper voice or an online voice.
 
 ## Code
 
@@ -167,6 +169,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Capty](https://capty.app/) - Lightning-fast screen recordings with a native macOS experience.
 - [CleanShot X](https://cleanshot.com/) - Ultimate screen recording app.
 - [Clean my mac 3](https://macpaw.com/cleanmymac)
+- [Cleaner](https://github.com/ciro-maciel/cleaner) - Open-source disk cleaner whose rules live in one public file, with an uninstaller, a disk map and a 7-day quarantine that restores removed items.
 - [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.
 - [Daisy disk](https://daisydiskapp.com/)
 - [Dropzone 4](https://aptonic.com/)
@@ -186,10 +189,12 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Name mangler](https://manytricks.com/namemangler/)
 - [Pacifist](http://www.charlessoft.com/) - Opens Mac OS X .pkg package files, .dmg disk images, and .zip, .tar, .tar.gz, .tar.bz2, and .xar archives and allows you to extract individual files and folders out of them.
 - [Popclip](https://pilotmoon.com/popclip/)
+- [Screenshots](https://github.com/ciro-maciel/screenshots) - Open-source screenshots and screen recording with scrolling capture, on-device text recognition, annotation and pin-to-screen.
 - [Spotifree](http://spotifree.gordinskiy.com/)
 - [Swish](https://highlyopinionated.co/swish/) - A gesture layer and window manager for the trackpad power user.
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
 - [Unclutter](https://unclutterapp.com/)
+- [Windows](https://github.com/ciro-maciel/windows) - Open-source window manager that snaps windows by shortcut or by dragging them to a screen edge.
 - [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover.
 - [ZoomShot](https://apps.apple.com/app/zoomshot-live-screen-effect/id6758536367) - Real-time screen zoom, cursor highlight, drawing, and text memo for presentations and recordings.
 
