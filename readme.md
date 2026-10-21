@@ -168,6 +168,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [CleanShot X](https://cleanshot.com/) - Ultimate screen recording app.
 - [Clean my mac 3](https://macpaw.com/cleanmymac)
 - [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.
+- [Cybokron Dock Groups](https://cybokron.com/dock-groups/) - Group apps and websites in the menu bar and open, hide, or close a whole group at once.
 - [Daisy disk](https://daisydiskapp.com/)
 - [Dropzone 4](https://aptonic.com/)
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
