@@ -163,6 +163,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
 - [Bitbar](https://github.com/matryer/bitbar)
 - [Brew](https://brew.sh)
+- [Chatda](https://barbellsoft.com/chatda/) - Desktop search that finds files by name and by the text inside PDF, Office and HWPX documents.
 - [Chronosync](https://www.econtechnologies.com/chronosync/overview.html)
 - [Capty](https://capty.app/) - Lightning-fast screen recordings with a native macOS experience.
 - [CleanShot X](https://cleanshot.com/) - Ultimate screen recording app.
