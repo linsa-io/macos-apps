@@ -79,6 +79,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Dash](https://kapeli.com/dash)
 - [Dumper](https://bananafishsoftware.com/products/dumper/) - Extract, browse and inspect the class declarations from any Mach-O file containing Objective-C runtime information.
 - [OpenPaw](https://github.com/daxaur/openpaw) - Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills. `npx pawmode`
+- [OpusBar](https://github.com/kushalBanda/OpusBar) - Menu bar app that shows which Claude Code or Codex session is working, waiting for you, done or failed, with plan limits and token usage. Free and open source.
 - [Paw](https://paw.cloud/)
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Create Mac applications from command line scripts.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/)
