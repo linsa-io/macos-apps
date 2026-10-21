@@ -158,6 +158,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Utilities
 
+- [Aide](https://aide.tinyapps.space) - Menu bar load indicator that lists only the apps over your CPU or memory limit.
 - [Alfred](https://www.alfredapp.com/) - Customizable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-).
 - [Bartender](https://www.macbartender.com/) - Organize menu bar apps.
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
