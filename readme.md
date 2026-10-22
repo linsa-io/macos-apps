@@ -30,6 +30,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app powered by WhisperKit.
+- [WalkAITalkie](https://walkaitalkie.com/) - Local dictation and text cleanup for Apple Silicon Macs running macOS 26 or later. In the direct app, dictation and Clean Up are free; extra formats and translation are paid.
 
 ## Code
 
