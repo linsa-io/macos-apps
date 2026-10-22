@@ -188,6 +188,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Popclip](https://pilotmoon.com/popclip/)
 - [Spotifree](http://spotifree.gordinskiy.com/)
 - [Swish](https://highlyopinionated.co/swish/) - A gesture layer and window manager for the trackpad power user.
+- [Switchback](https://getswitchback.io) - Adds a typeable path bar, a sidebar folder tree, pausable copies and a Task Manager to the real Finder.
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
 - [Unclutter](https://unclutterapp.com/)
 - [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover.
