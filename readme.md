@@ -179,6 +179,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Kap](https://getkap.co/)
 - [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful keyboard customizer.
 - [Keka](https://www.keka.io)
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - Restores window positions and Spaces when an external monitor is reconnected.
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [Lockpaw](https://github.com/sorkila/lockpaw) - Menu bar screen guard that locks your screen with a hotkey without sleeping; builds and AI agents keep running with input blocked, and the screen glows when your agent needs you. Free and open source, with Touch ID unlock.
 - [Lumen](https://github.com/anishathalye/lumen)
