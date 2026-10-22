@@ -62,6 +62,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Affinity Designer](https://affinity.serif.com/designer/) - Vector-based design tool.
 - [Affinity Photo](https://affinity.serif.com/photo/) - Raster-based design tool.
 - [Framer X](https://framer.com/) - Interactive design tool.
+- [IconCraft](https://iconcraft.co) - Give any app a custom name and icon without changing the app underneath. Free and [open source](https://github.com/gshipman223/IconCraft).
 - [Iconizer](http://raphaelhanneken.github.io/iconizer/) - Create Xcode asset catalogs on the fly.
 - [Image2icon](http://www.img2icnsapp.com/) - Create and personalize icons from your pictures.
 - [Patina](http://www.patinaapp.com/)
