@@ -207,6 +207,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
+- [Pinto Notes](https://pintonotes.com/) - Free, open-source notes app that ChatGPT and Claude can read and edit.
 - [Texpad](https://www.texpad.com/)
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
 
