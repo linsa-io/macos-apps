@@ -199,6 +199,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
+- [Beam](https://github.com/prasad-kumkar/beam-cast) - Cast local video files to Chromecast and Google TV, with subtitles and audio tracks.
 
 ## Write
 
