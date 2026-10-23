@@ -178,6 +178,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [IStat menus](https://bjango.com/mac/istatmenus/)
 - [Kap](https://getkap.co/)
 - [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful keyboard customizer.
+- [KarmaDisk](https://www.karmadisk.eu/) - Free disk maps, duplicate finding and guided cleanup for macOS 15+; photo processing has a 50-photo lifetime sample and optional one-time upgrade.
 - [Keka](https://www.keka.io)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [Lockpaw](https://github.com/sorkila/lockpaw) - Menu bar screen guard that locks your screen with a hotkey without sleeping; builds and AI agents keep running with input blocked, and the screen glows when your agent needs you. Free and open source, with Touch ID unlock.
