@@ -39,6 +39,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Communication
 
 - [Airmail](http://airmailapp.com/)
+- [Aster Mail](https://astermail.org)
 - [Gitter](https://gitter.im/apps)
 - [Slack](https://slack.com/)
 - [Telegram](https://telegram.org/)
