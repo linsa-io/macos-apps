@@ -88,6 +88,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Games
 
+- [ChessCafe](https://getapps.cafe/app/chesscafe) - 3D chess with animated captures, three engine strengths and hotseat play.
 - [MineCraft](https://minecraft.net/en-us/)
 - [Stockfish](https://stockfishchess.org/)
 
