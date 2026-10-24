@@ -192,6 +192,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Unclutter](https://unclutterapp.com/)
 - [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover.
 - [ZoomShot](https://apps.apple.com/app/zoomshot-live-screen-effect/id6758536367) - Real-time screen zoom, cursor highlight, drawing, and text memo for presentations and recordings.
+- [AppDuo](https://tamia6.github.io/AppDuo/en/) - Native macOS app cloner with separate data directories and custom names and icons.
 
 ## Video
 
