@@ -199,6 +199,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
+- [GeekLink](https://geeklink.dev/) - Extract hardcoded subtitles from video with OCR, transcribe speech locally with Whisper, and translate subtitles.
 
 ## Write
 
