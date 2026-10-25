@@ -30,6 +30,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app powered by WhisperKit.
+- [Teclo](https://teclo.app/?utm_source=linsa-io-macos-apps&utm_medium=directory&utm_content=listing) - Menu bar app that plays a mechanical keyboard sound for every key you press in any app, with separate press and release sounds.
 
 ## Code
 
