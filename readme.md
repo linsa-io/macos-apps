@@ -175,6 +175,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Hammerspoon](http://www.hammerspoon.org/)
 - [Hummingbird](https://hummingbirdapp.site) - Easily move and resize windows without mouse clicks, from anywhere within a window.
 - [HexFriend](https://github.com/ridiculousfish/HexFiend/) - Fast and clever open source hex editor.
+- [iPhone Data Manager](https://iphonedatamanager.com) - Local-first iPhone backup manager and WhatsApp, photo, message, and diagnostics exporter for Mac.
 - [IStat menus](https://bjango.com/mac/istatmenus/)
 - [Kap](https://getkap.co/)
 - [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful keyboard customizer.
