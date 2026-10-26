@@ -183,6 +183,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Lockpaw](https://github.com/sorkila/lockpaw) - Menu bar screen guard that locks your screen with a hotkey without sleeping; builds and AI agents keep running with input blocked, and the screen glows when your agent needs you. Free and open source, with Touch ID unlock.
 - [Lumen](https://github.com/anishathalye/lumen)
 - [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Center Calendar
+- [Multimeter](https://multimeterapp.com) - Live menu bar meters for battery, power draw, CPU, network, timers and any number from a script, URL or file, with faces built in HTML.
 - [Name mangler](https://manytricks.com/namemangler/)
 - [Pacifist](http://www.charlessoft.com/) - Opens Mac OS X .pkg package files, .dmg disk images, and .zip, .tar, .tar.gz, .tar.bz2, and .xar archives and allows you to extract individual files and folders out of them.
 - [Popclip](https://pilotmoon.com/popclip/)
