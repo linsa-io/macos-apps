@@ -129,6 +129,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation engine.
 - [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
+- [MRRDock](https://github.com/simonsruggi/MRRDock) - Free, open-source menu bar app that adds up MRR from Stripe, RevenueCat, Paddle, Lemon Squeezy and other payment providers.
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tag and archive documents.
 - [Timing 2](https://betalist.com/startups/timing-2)
