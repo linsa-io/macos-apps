@@ -28,6 +28,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Audio
 
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
+- [Aria](https://hfioafio.github.io/Aria-Downloads/en.html) - Voice dictation in Mac apps and audio/video file transcription, with local speech models and an optional online mode (proprietary, free tier available).
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app powered by WhisperKit.
 
