@@ -169,6 +169,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Clean my mac 3](https://macpaw.com/cleanmymac)
 - [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.
 - [Daisy disk](https://daisydiskapp.com/)
+- [Diskaroo](https://bravely.dev/diskaroo) - Treemap and sunburst disk space visualizer that also finds duplicate files. Free with a Bravely account.
 - [Dropzone 4](https://aptonic.com/)
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
 - [Gitify](https://github.com/manosim/gitify)
