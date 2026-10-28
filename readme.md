@@ -127,6 +127,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [BetterTouchTool](https://www.boastr.net/)
 - [Fantastical](https://flexibits.com/fantastical)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation engine.
+- [Linkit](https://github.com/blue-idea/linkit) - Local-first bookmark manager with AI summaries, semantic search, and optional self-hosted sync.
 - [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
