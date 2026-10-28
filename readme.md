@@ -110,6 +110,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Learn
 
 - [Anki](https://apps.ankiweb.net/)
+- [Anki Miner](https://github.com/0xzerolight/anki_miner) - Desktop app for automated Anki language vocabulary card creation from video, audio, manga and books, in 32 languages.
 - [Soulver](http://acqualia.com/soulver/)
 
 ## Music
