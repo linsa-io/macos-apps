@@ -135,6 +135,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
 - [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
 - [Taskade](https://taskade.com/) - Simple and sharable task lists, notes and outlines.
+- [UMST](https://github.com/nicoleyangcoding/UMST-UltimateMacSchedulingTool) - Free, open-source desktop calendar that puts Google, iCloud, Outlook, Reminders, Canvas, Todoist and more in one list.
 - [Up Next](http://ellen.li/up-next/) - See your day at a glance. Integrated with Google Meet so you can join meetings with ⌘J.
 
 ## Read
