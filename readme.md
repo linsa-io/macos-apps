@@ -132,6 +132,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tag and archive documents.
 - [Timing 2](https://betalist.com/startups/timing-2)
+- [Todoing.ly](https://bravely.dev/todoingly) - Task manager with natural-language input, list or board views and shared projects.
 - [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
 - [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
 - [Taskade](https://taskade.com/) - Simple and sharable task lists, notes and outlines.
