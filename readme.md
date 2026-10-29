@@ -170,6 +170,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.
 - [Daisy disk](https://daisydiskapp.com/)
 - [Dropzone 4](https://aptonic.com/)
+- [Espresso](https://espressoformac.com) - Everything-style instant file search across every disk, including disks that aren't connected. Free for personal use.
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
 - [Gitify](https://github.com/manosim/gitify)
 - [Hammerspoon](http://www.hammerspoon.org/)
