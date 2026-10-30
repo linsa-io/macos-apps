@@ -178,6 +178,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [IStat menus](https://bjango.com/mac/istatmenus/)
 - [Kap](https://getkap.co/)
 - [Karabiner](https://pqrs.org/osx/karabiner/) - Powerful keyboard customizer.
+- [Keep Mac Awake](https://keepmacawake.com/?utm_source=github&utm_medium=referral&utm_campaign=listing&utm_content=linsa-macos-apps) - Menu bar app that keeps a MacBook awake with the lid closed and no external display, for a session you start, then restores normal sleep.
 - [Keka](https://www.keka.io)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [Lockpaw](https://github.com/sorkila/lockpaw) - Menu bar screen guard that locks your screen with a hotkey without sleeping; builds and AI agents keep running with input blocked, and the screen glows when your agent needs you. Free and open source, with Touch ID unlock.
