@@ -21,6 +21,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Text Editors](#text-editors)
 - [Utilities](#utilities)
 - [Video](#video)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam (browser + virtual camera).
 - [Write](#write)
 - [Other](#other)
 - [Related](#related)
