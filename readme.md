@@ -205,6 +205,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 - [Day One](http://dayoneapp.com/)
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
+- [Gramfix](https://gramfix.app) - Fix grammar and spelling of selected text in any app with a keyboard shortcut, using your own OpenAI API key. For Apple Silicon Macs.
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
 - [Texpad](https://www.texpad.com/)
