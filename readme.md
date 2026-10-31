@@ -159,6 +159,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Utilities
 
 - [Alfred](https://www.alfredapp.com/) - Customizable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-).
+- [Annotator](https://getannotator.app) - Draw arrows, boxes, highlights and blur over any app during demos, reviews and lessons.
 - [Bartender](https://www.macbartender.com/) - Organize menu bar apps.
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
 - [Bitbar](https://github.com/matryer/bitbar)
