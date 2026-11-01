@@ -105,6 +105,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Flume](https://flumeapp.com/)
 - [GIF Brewery](http://gifbrewery.com/) - Create/edit GIFs.
 - [Pixave](http://www.littlehj.com/) - Image organizer.
+- [QuickPix](https://obelisk.club/quickpix) - Compress and convert images, including HEIC and RAW, without uploading them.
 - [Wallcat](https://beta.wall.cat/) - New wallpaper everyday.
 
 ## Learn
