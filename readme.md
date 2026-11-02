@@ -104,6 +104,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Flume](https://flumeapp.com/)
 - [GIF Brewery](http://gifbrewery.com/) - Create/edit GIFs.
+- [LumaView](https://github.com/ixiehao/LumaView) - Native folder-based image viewer with EXIF information and multipage PDF support.
 - [Pixave](http://www.littlehj.com/) - Image organizer.
 - [Wallcat](https://beta.wall.cat/) - New wallpaper everyday.
 
@@ -196,8 +197,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Video
 
 - [IINA](https://github.com/lhc70000/iina)
+- [MP4Flow](https://github.com/ixiehao/MP4Flow) - Native FFmpeg front end for batch MP4 conversion, trimming, cropping, rotation, and merging; requires FFmpeg and ffprobe.
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+- [ShotMap](https://github.com/ixiehao/ShotMap) - Turn videos into storyboard images with smart frame selection, a manual timeline, and local PNG/JPG export.
 - [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
 
 ## Write
