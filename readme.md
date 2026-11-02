@@ -143,6 +143,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting.
 - [PDF Expert](https://pdfexpert.com/)
 - [Reeder 3](http://reederapp.com/mac/)
+- [Rime](https://yorben.me/#rime) - Distraction-free native macOS PDF reader where the screen freezes into frosted ice. ([Code](https://github.com/Yvsleyen00941/Rime))
 
 ## Terminal emulators
 
