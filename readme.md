@@ -30,6 +30,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app powered by WhisperKit.
+- [Tonecap](https://github.com/stanczykwyatt/tonecap) - Mechanical keyboard sounds synthesized with no recordings, played as you type.
 
 ## Code
 
@@ -142,6 +143,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [iBooks](https://www.apple.com/lae/ibooks/)
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting.
 - [PDF Expert](https://pdfexpert.com/)
+- [Reading List Export](https://github.com/stanczykwyatt/reading-list-export) - Export the Safari Reading List as Markdown, a bookmarks file and an Instapaper-style CSV.
 - [Reeder 3](http://reederapp.com/mac/)
 
 ## Terminal emulators
@@ -182,13 +184,19 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html)
 - [Lockpaw](https://github.com/sorkila/lockpaw) - Menu bar screen guard that locks your screen with a hotkey without sleeping; builds and AI agents keep running with input blocked, and the screen glows when your agent needs you. Free and open source, with Touch ID unlock.
 - [Lumen](https://github.com/anishathalye/lumen)
+- [Memo Export](https://github.com/stanczykwyatt/memo-export) - Export Voice Memos recordings as Markdown notes with timestamped transcripts next to the audio.
 - [MonthlyCal](https://itunes.apple.com/us/app/monthlycal-colorful-monthly/id935250717?mt=12) - Notification Center Calendar
 - [Name mangler](https://manytricks.com/namemangler/)
+- [Next Departures](https://github.com/stanczykwyatt/next-departures) - Live next departures from your transit stops in the menu bar, from any GTFS-realtime feed.
 - [Pacifist](http://www.charlessoft.com/) - Opens Mac OS X .pkg package files, .dmg disk images, and .zip, .tar, .tar.gz, .tar.bz2, and .xar archives and allows you to extract individual files and folders out of them.
+- [Podcast Export](https://github.com/stanczykwyatt/podcast-export) - Export Apple Podcasts subscriptions as OPML and your listening history as Markdown and CSV.
 - [Popclip](https://pilotmoon.com/popclip/)
+- [Right Folder](https://github.com/stanczykwyatt/right-folder) - Folders open in Finder, recent folders and favorites beside every Open and Save dialog.
+- [SciLook](https://github.com/stanczykwyatt/scilook) - Quick Look previews for NWB, HDF5, MATLAB and NumPy files, with their structure and a plot.
 - [Spotifree](http://spotifree.gordinskiy.com/)
 - [Swish](https://highlyopinionated.co/swish/) - A gesture layer and window manager for the trackpad power user.
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
+- [Unblock Eject](https://github.com/stanczykwyatt/unblock-eject) - See which apps keep a disk from ejecting, quit them politely and eject.
 - [Unclutter](https://unclutterapp.com/)
 - [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover.
 - [ZoomShot](https://apps.apple.com/app/zoomshot-live-screen-effect/id6758536367) - Real-time screen zoom, cursor highlight, drawing, and text memo for presentations and recordings.
