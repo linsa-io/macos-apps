@@ -102,6 +102,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Images
 
+- [Flipic](https://github.com/xmasdong/flipic) - Photo culling viewer: arrow-key paging, 100% focus check, XMP ratings, on-device cleanup mode. Free, open source.
 - [Flume](https://flumeapp.com/)
 - [GIF Brewery](http://gifbrewery.com/) - Create/edit GIFs.
 - [Pixave](http://www.littlehj.com/) - Image organizer.
