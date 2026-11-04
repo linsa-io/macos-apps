@@ -74,6 +74,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Dev tools
 
 - [AgentGrid](https://agentgrid.sh) - Infinite zoomable canvas for orchestrating multiple AI coding agents in parallel, with role-based workers, per-agent git worktrees, and integrated terminals and browser panes.
+- [KinetAios](https://kinetapp.dev) - Local-first AI agent dashboard unifying multiple coding engines (Claude Code, Codex, Ollama) with 30+ built-in tools, 21 plugins, and cross-engine memory.
 - [Bee](https://www.neat.io/bee/) - Issue tracker.
 - [Command Book](https://commandbookapp.com) - A terminal companion for long-running terminal commands.
 - [Dash](https://kapeli.com/dash)
