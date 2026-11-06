@@ -40,6 +40,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Airmail](http://airmailapp.com/)
 - [Gitter](https://gitter.im/apps)
+- [Postage](https://postageformac.com/) - Native email client for any IMAP account with a built-in MCP server, so agents can search, sort and draft mail while you press Send.
 - [Slack](https://slack.com/)
 - [Telegram](https://telegram.org/)
 - [Textual](https://www.codeux.com/textual/)
