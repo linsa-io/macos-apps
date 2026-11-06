@@ -29,6 +29,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
+- [Klakk](https://tryklakk.com/en/keyboard-sounds/) - Keyboard sound app with 14 included packs. The Mac desktop app from Klakk's website has a three-day trial from first launch; a license for that edition costs US$6.99 once plus applicable tax.
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app powered by WhisperKit.
 
 ## Code
