@@ -40,6 +40,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Airmail](http://airmailapp.com/)
 - [Gitter](https://gitter.im/apps)
+- [Murmury](https://github.com/GianlucaBave/murmury) - Listens to the other side of a video call, transcribes it on the Mac with Whisper and shows short answers from your own documents.
 - [Slack](https://slack.com/)
 - [Telegram](https://telegram.org/)
 - [Textual](https://www.codeux.com/textual/)
