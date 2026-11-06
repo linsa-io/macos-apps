@@ -55,6 +55,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [MongoDB](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
 - [Postico](https://eggerapps.at/postico/)
+- [Seqora](https://seqora.dev/) - PostgreSQL, MySQL, MariaDB and SQLite client with ER diagrams and visual query plans.
 - [Sequel pro](https://www.sequelpro.com/)
 
 ## Design
