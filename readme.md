@@ -142,6 +142,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [iBooks](https://www.apple.com/lae/ibooks/)
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting.
 - [PDF Expert](https://pdfexpert.com/)
+- [Rime](https://yorben.me/#rime) - Fluid reading engine for macOS supporting PDF, EPUB, and Markdown with typography-first continuous layout.
 - [Reeder 3](http://reederapp.com/mac/)
 
 ## Terminal emulators
@@ -188,6 +189,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Popclip](https://pilotmoon.com/popclip/)
 - [Spotifree](http://spotifree.gordinskiy.com/)
 - [Swish](https://highlyopinionated.co/swish/) - A gesture layer and window manager for the trackpad power user.
+- [Tape](https://yorben.me/#tape) - Stock ticker in the empty corner beside the Dock: one listing at a time, in its logo's colour.
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
 - [Unclutter](https://unclutterapp.com/)
 - [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover.
