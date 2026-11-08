@@ -141,6 +141,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [iBooks](https://www.apple.com/lae/ibooks/)
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting.
+- [Paperwing](https://paperwingapp.com) - Open-source offline PDF editor with text editing, signing, forms, OCR and redaction.
 - [PDF Expert](https://pdfexpert.com/)
 - [Reeder 3](http://reederapp.com/mac/)
 
