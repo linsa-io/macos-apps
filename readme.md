@@ -165,6 +165,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Brew](https://brew.sh)
 - [Chronosync](https://www.econtechnologies.com/chronosync/overview.html)
 - [Capty](https://capty.app/) - Lightning-fast screen recordings with a native macOS experience.
+- [Claude Accounts](https://github.com/jomonkj/claude-accounts) - Menu bar app that switches the Claude desktop app between accounts with one click, without losing sessions.
 - [CleanShot X](https://cleanshot.com/) - Ultimate screen recording app.
 - [Clean my mac 3](https://macpaw.com/cleanmymac)
 - [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.
