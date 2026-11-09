@@ -26,6 +26,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Related](#related)
 
 ## Audio
+- [Needle](https://github.com/Yvsleyen00941/Needle) - What's playing on your Mac in the empty corner beside the Dock.
 
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
