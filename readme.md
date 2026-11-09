@@ -127,6 +127,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [BetterTouchTool](https://www.boastr.net/)
 - [Fantastical](https://flexibits.com/fantastical)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation engine.
+- [Lampo](https://github.com/christianmusumeci00/Lampo) - Puts Apple's on-device model one shortcut away in any app: correct, rewrite, translate, dictate and ask about your screen.
 - [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
