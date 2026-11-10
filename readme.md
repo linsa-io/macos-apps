@@ -188,6 +188,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Popclip](https://pilotmoon.com/popclip/)
 - [Spotifree](http://spotifree.gordinskiy.com/)
 - [Swish](https://highlyopinionated.co/swish/) - A gesture layer and window manager for the trackpad power user.
+- [Toolbox](https://mactoolbox.app) - 96 native Mac tools in one app: compress video, sign PDFs, remove backgrounds, transcribe audio and more, all offline.
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
 - [Unclutter](https://unclutterapp.com/)
 - [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover.
