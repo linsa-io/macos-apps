@@ -207,6 +207,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
+- [MiaoYan](https://miaoyan.app/) - Lightweight Markdown notebook that keeps notes as plain files in a folder you choose, with split preview, LaTeX, Mermaid and slides.
 - [Texpad](https://www.texpad.com/)
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
 
