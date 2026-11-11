@@ -29,6 +29,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
+- [MediSync Dictate](https://medisynchealth.ai/en/dictate?ref=github) - Dictation app that types formatted text at the cursor in any app, with a local mode that runs on the device and works offline.
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app powered by WhisperKit.
 
 ## Code
