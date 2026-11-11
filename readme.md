@@ -70,6 +70,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Sketch](https://www.sketchapp.com/)
 - [Svgsus](http://www.svgs.us/) - Organize, clean and transform your SVGs.
 - [Type Case](https://itunes.apple.com/us/app/type-case/id994524929?mt=12) - Preview fonts installed on your mac.
+- [XShots](https://selfark.com/xshots/) - Paid native Mac app for designing, localizing, previewing and batch-exporting app-store screenshot sets.
 
 ## Dev tools
 
