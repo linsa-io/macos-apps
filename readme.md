@@ -126,6 +126,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Air Pasteboard](https://apps.apple.com/us/app/air-pasteboard/id1327733671?mt=12) - Quick pasteboard and file sharing.
 - [BetterTouchTool](https://www.boastr.net/)
 - [Fantastical](https://flexibits.com/fantastical)
+- [Fuseduo](https://fuseduo.com/) - Drop one app onto another and Claude writes an automation for the pair, explained step by step and run only after you approve.
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation engine.
 - [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
@@ -169,8 +170,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Clean my mac 3](https://macpaw.com/cleanmymac)
 - [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.
 - [Daisy disk](https://daisydiskapp.com/)
+- [Diskshaper](https://hollowbit.dev/diskshaper/) - See what is eating your storage and clean only what is safe; everything goes to the Trash.
 - [Dropzone 4](https://aptonic.com/)
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
+- [Fileshaper](https://fileshaper.app/) - Offline file toolbox: compress video, convert images, merge and sign PDFs without uploading anything.
 - [Gitify](https://github.com/manosim/gitify)
 - [Hammerspoon](http://www.hammerspoon.org/)
 - [Hummingbird](https://hummingbirdapp.site) - Easily move and resize windows without mouse clicks, from anywhere within a window.
@@ -195,6 +198,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Video
 
+- [Captionshaper](https://captionshaper.app/) - Offline auto-subtitles with word-timed captions, caption styles and SRT/VTT export.
 - [IINA](https://github.com/lhc70000/iina)
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
@@ -209,6 +213,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Marked 2](http://marked2app.com/)
 - [Texpad](https://www.texpad.com/)
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
+- [Writeshaper](https://hollowbit.dev/writeshaper/) - Private writing assistant: select text in any app and press a shortcut to fix or rewrite it; the model runs on your computer.
 
 ## Preference Panes
 
